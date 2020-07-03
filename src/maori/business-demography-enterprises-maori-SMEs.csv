@@ -1,0 +1,177 @@
+Year,MaoriBusinessStatus,Industry,Enterprises,EmployeeCount
+2010,Maori SME,"Agriculture, Forestry and Fishing",45.00,940.00
+2010,Maori SME,Manufacturing,54.00,840.00
+2010,Maori SME,"Electricity, Gas, Water and Waste Services",6.00,35.00
+2010,Maori SME,Construction,33.00,440.00
+2010,Maori SME,Wholesale Trade,21.00,210.00
+2010,Maori SME,Retail Trade,27.00,180.00
+2010,Maori SME,Accommodation and Food Services,33.00,420.00
+2010,Maori SME,"Transport, Postal and Warehousing",15.00,150.00
+2010,Maori SME,Information Media and Telecommunications,12.00,85.00
+2010,Maori SME,Financial and Insurance Services,6.00,120.00
+2010,Maori SME,"Rental, Hiring and Real Estate Services",15.00,230.00
+2010,Maori SME,"Professional, Scientific and Technical Services",45.00,160.00
+2010,Maori SME,Administrative and Support Services,27.00,360.00
+2010,Maori SME,Public Administration and Safety,0.00,80.00
+2010,Maori SME,Education and Training,24.00,300.00
+2010,Maori SME,Health Care and Social Assistance,30.00,600.00
+2010,Maori SME,Arts and Recreation Services,33.00,470.00
+2010,Maori SME,Other Services,30.00,280.00
+2010,Maori SME,Total,456.00,5900.00
+2011,Maori SME,"Agriculture, Forestry and Fishing",45.00,920.00
+2011,Maori SME,Manufacturing,54.00,750.00
+2011,Maori SME,"Electricity, Gas, Water and Waste Services",6.00,35.00
+2011,Maori SME,Construction,36.00,580.00
+2011,Maori SME,Wholesale Trade,21.00,190.00
+2011,Maori SME,Retail Trade,27.00,180.00
+2011,Maori SME,Accommodation and Food Services,30.00,440.00
+2011,Maori SME,"Transport, Postal and Warehousing",15.00,160.00
+2011,Maori SME,Information Media and Telecommunications,12.00,100.00
+2011,Maori SME,Financial and Insurance Services,6.00,130.00
+2011,Maori SME,"Rental, Hiring and Real Estate Services",15.00,270.00
+2011,Maori SME,"Professional, Scientific and Technical Services",51.00,210.00
+2011,Maori SME,Administrative and Support Services,27.00,310.00
+2011,Maori SME,Public Administration and Safety,3.00,170.00
+2011,Maori SME,Education and Training,21.00,270.00
+2011,Maori SME,Health Care and Social Assistance,30.00,720.00
+2011,Maori SME,Arts and Recreation Services,33.00,470.00
+2011,Maori SME,Other Services,27.00,170.00
+2011,Maori SME,Total,447.00,6100.00
+2012,Maori SME,"Agriculture, Forestry and Fishing",45.00,980.00
+2012,Maori SME,Manufacturing,57.00,800.00
+2012,Maori SME,"Electricity, Gas, Water and Waste Services",6.00,45.00
+2012,Maori SME,Construction,33.00,710.00
+2012,Maori SME,Wholesale Trade,18.00,200.00
+2012,Maori SME,Retail Trade,27.00,110.00
+2012,Maori SME,Accommodation and Food Services,30.00,480.00
+2012,Maori SME,"Transport, Postal and Warehousing",15.00,170.00
+2012,Maori SME,Information Media and Telecommunications,12.00,110.00
+2012,Maori SME,Financial and Insurance Services,6.00,140.00
+2012,Maori SME,"Rental, Hiring and Real Estate Services",15.00,300.00
+2012,Maori SME,"Professional, Scientific and Technical Services",42.00,300.00
+2012,Maori SME,Administrative and Support Services,27.00,320.00
+2012,Maori SME,Public Administration and Safety,3.00,120.00
+2012,Maori SME,Education and Training,21.00,280.00
+2012,Maori SME,Health Care and Social Assistance,30.00,770.00
+2012,Maori SME,Arts and Recreation Services,36.00,470.00
+2012,Maori SME,Other Services,27.00,170.00
+2012,Maori SME,Total,453.00,6500.00
+2013,Maori SME,"Agriculture, Forestry and Fishing",45.00,1050.00
+2013,Maori SME,Manufacturing,54.00,820.00
+2013,Maori SME,"Electricity, Gas, Water and Waste Services",6.00,35.00
+2013,Maori SME,Construction,36.00,690.00
+2013,Maori SME,Wholesale Trade,18.00,220.00
+2013,Maori SME,Retail Trade,24.00,150.00
+2013,Maori SME,Accommodation and Food Services,36.00,510.00
+2013,Maori SME,"Transport, Postal and Warehousing",18.00,210.00
+2013,Maori SME,Information Media and Telecommunications,9.00,150.00
+2013,Maori SME,Financial and Insurance Services,3.00,120.00
+2013,Maori SME,"Rental, Hiring and Real Estate Services",15.00,340.00
+2013,Maori SME,"Professional, Scientific and Technical Services",45.00,430.00
+2013,Maori SME,Administrative and Support Services,27.00,320.00
+2013,Maori SME,Public Administration and Safety,3.00,130.00
+2013,Maori SME,Education and Training,24.00,300.00
+2013,Maori SME,Health Care and Social Assistance,30.00,680.00
+2013,Maori SME,Arts and Recreation Services,39.00,630.00
+2013,Maori SME,Other Services,27.00,150.00
+2013,Maori SME,Total,474.00,6900.00
+2014,Maori SME,"Agriculture, Forestry and Fishing",54.00,1250.00
+2014,Maori SME,Mining,3.00,18.00
+2014,Maori SME,Manufacturing,57.00,880.00
+2014,Maori SME,"Electricity, Gas, Water and Waste Services",6.00,35.00
+2014,Maori SME,Construction,39.00,760.00
+2014,Maori SME,Wholesale Trade,21.00,240.00
+2014,Maori SME,Retail Trade,27.00,160.00
+2014,Maori SME,Accommodation and Food Services,36.00,560.00
+2014,Maori SME,"Transport, Postal and Warehousing",21.00,230.00
+2014,Maori SME,Information Media and Telecommunications,9.00,150.00
+2014,Maori SME,Financial and Insurance Services,6.00,130.00
+2014,Maori SME,"Rental, Hiring and Real Estate Services",15.00,300.00
+2014,Maori SME,"Professional, Scientific and Technical Services",48.00,420.00
+2014,Maori SME,Administrative and Support Services,30.00,510.00
+2014,Maori SME,Public Administration and Safety,6.00,140.00
+2014,Maori SME,Education and Training,24.00,310.00
+2014,Maori SME,Health Care and Social Assistance,36.00,790.00
+2014,Maori SME,Arts and Recreation Services,39.00,640.00
+2014,Maori SME,Other Services,27.00,170.00
+2014,Maori SME,Total,492.00,7700.00
+2015,Maori SME,"Agriculture, Forestry and Fishing",60.00,1100.00
+2015,Maori SME,Mining,3.00,25.00
+2015,Maori SME,Manufacturing,60.00,950.00
+2015,Maori SME,"Electricity, Gas, Water and Waste Services",3.00,45.00
+2015,Maori SME,Construction,39.00,820.00
+2015,Maori SME,Wholesale Trade,21.00,280.00
+2015,Maori SME,Retail Trade,24.00,170.00
+2015,Maori SME,Accommodation and Food Services,36.00,600.00
+2015,Maori SME,"Transport, Postal and Warehousing",21.00,250.00
+2015,Maori SME,Information Media and Telecommunications,6.00,130.00
+2015,Maori SME,Financial and Insurance Services,3.00,160.00
+2015,Maori SME,"Rental, Hiring and Real Estate Services",12.00,260.00
+2015,Maori SME,"Professional, Scientific and Technical Services",48.00,430.00
+2015,Maori SME,Administrative and Support Services,30.00,630.00
+2015,Maori SME,Public Administration and Safety,3.00,90.00
+2015,Maori SME,Education and Training,27.00,430.00
+2015,Maori SME,Health Care and Social Assistance,36.00,920.00
+2015,Maori SME,Arts and Recreation Services,39.00,590.00
+2015,Maori SME,Other Services,30.00,170.00
+2015,Maori SME,Total,498.00,8100.00
+2016,Maori SME,"Agriculture, Forestry and Fishing",60.00,1250.00
+2016,Maori SME,Mining,0.00,35.00
+2016,Maori SME,Manufacturing,60.00,1000.00
+2016,Maori SME,"Electricity, Gas, Water and Waste Services",3.00,45.00
+2016,Maori SME,Construction,42.00,930.00
+2016,Maori SME,Wholesale Trade,21.00,280.00
+2016,Maori SME,Retail Trade,18.00,200.00
+2016,Maori SME,Accommodation and Food Services,33.00,680.00
+2016,Maori SME,"Transport, Postal and Warehousing",21.00,270.00
+2016,Maori SME,Information Media and Telecommunications,9.00,120.00
+2016,Maori SME,Financial and Insurance Services,3.00,65.00
+2016,Maori SME,"Rental, Hiring and Real Estate Services",12.00,310.00
+2016,Maori SME,"Professional, Scientific and Technical Services",42.00,430.00
+2016,Maori SME,Administrative and Support Services,33.00,670.00
+2016,Maori SME,Public Administration and Safety,3.00,80.00
+2016,Maori SME,Education and Training,30.00,510.00
+2016,Maori SME,Health Care and Social Assistance,33.00,830.00
+2016,Maori SME,Arts and Recreation Services,33.00,580.00
+2016,Maori SME,Other Services,30.00,190.00
+2016,Maori SME,Total,492.00,8500.00
+2017,Maori SME,"Agriculture, Forestry and Fishing",60.00,1100.00
+2017,Maori SME,Mining,0.00,12.00
+2017,Maori SME,Manufacturing,60.00,1150.00
+2017,Maori SME,"Electricity, Gas, Water and Waste Services",3.00,50.00
+2017,Maori SME,Construction,39.00,1000.00
+2017,Maori SME,Wholesale Trade,15.00,340.00
+2017,Maori SME,Retail Trade,15.00,200.00
+2017,Maori SME,Accommodation and Food Services,30.00,580.00
+2017,Maori SME,"Transport, Postal and Warehousing",21.00,320.00
+2017,Maori SME,Information Media and Telecommunications,12.00,120.00
+2017,Maori SME,Financial and Insurance Services,6.00,75.00
+2017,Maori SME,"Rental, Hiring and Real Estate Services",12.00,220.00
+2017,Maori SME,"Professional, Scientific and Technical Services",42.00,480.00
+2017,Maori SME,Administrative and Support Services,27.00,570.00
+2017,Maori SME,Public Administration and Safety,3.00,85.00
+2017,Maori SME,Education and Training,27.00,430.00
+2017,Maori SME,Health Care and Social Assistance,36.00,900.00
+2017,Maori SME,Arts and Recreation Services,30.00,650.00
+2017,Maori SME,Other Services,27.00,190.00
+2017,Maori SME,Total,468.00,8500.00
+2018,Maori SME,"Agriculture, Forestry and Fishing",51.00,1000.00
+2018,Maori SME,Mining,0.00,9.00
+2018,Maori SME,Manufacturing,60.00,1250.00
+2018,Maori SME,"Electricity, Gas, Water and Waste Services",0.00,45.00
+2018,Maori SME,Construction,33.00,810.00
+2018,Maori SME,Wholesale Trade,15.00,360.00
+2018,Maori SME,Retail Trade,12.00,210.00
+2018,Maori SME,Accommodation and Food Services,30.00,570.00
+2018,Maori SME,"Transport, Postal and Warehousing",24.00,340.00
+2018,Maori SME,Information Media and Telecommunications,9.00,120.00
+2018,Maori SME,Financial and Insurance Services,6.00,75.00
+2018,Maori SME,"Rental, Hiring and Real Estate Services",12.00,260.00
+2018,Maori SME,"Professional, Scientific and Technical Services",42.00,520.00
+2018,Maori SME,Administrative and Support Services,24.00,420.00
+2018,Maori SME,Public Administration and Safety,3.00,110.00
+2018,Maori SME,Education and Training,30.00,460.00
+2018,Maori SME,Health Care and Social Assistance,33.00,850.00
+2018,Maori SME,Arts and Recreation Services,33.00,660.00
+2018,Maori SME,Other Services,24.00,190.00
+2018,Maori SME,Total,453.00,8300.00

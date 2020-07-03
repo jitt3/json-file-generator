@@ -1,0 +1,7 @@
+.download-button {
+    font-size: 2rem;
+    padding: 2rem;
+    cursor: pointer;
+    border-radius: 5rem;
+    border: none;
+}
